@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hamza 👋
 
-<!--
-**muhammadhamza560/muhammadhamza560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI Prompt Engineer | Creative Technologist
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about software development,
+artificial intelligence, creative technology, and digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C++
+- Object-Oriented Programming
+- Database Systems
+- Data Structures & Algorithms
+- Machine Learning
+- Software Requirements Engineering
+- Software Design & Architecture
+- Web Engineering
+
+## Professional Services
+
+- AI Prompt Engineering
+- AI Creative Services
+- Image Advertising
+- Video Advertising
+- Professional Videography
+- Video Editing
+- Social Media Management
+
+## Portfolio
+
+🌐 https://muhammadhamza560.github.io/
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/muhammad-hamza-1a7740402/
+- Instagram: instagram.com/mh_creative_studio/
+
+---
+
+### MH Creative Studio
+
+Founded by Muhammad Hamza
